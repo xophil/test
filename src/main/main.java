@@ -3,7 +3,7 @@
 public class main {
 
     public static void main(String[] args) {
-        System.out.println("Fünfter test");
+        System.out.println("Sixth test");
     }
     
 }
